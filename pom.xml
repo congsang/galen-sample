@@ -12,7 +12,7 @@
 
     <properties>
         <testng.version>6.11</testng.version>
-        <galen.version>2.3.6</galen.version>
+        <galen.version>2.4.4</galen.version>
         <mvncompiler.version>3.7.0</mvncompiler.version>
         <java.version>1.8</java.version>
         <mvnsurefire.version>2.20.1</mvnsurefire.version>
